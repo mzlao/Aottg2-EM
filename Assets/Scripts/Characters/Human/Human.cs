@@ -2232,7 +2232,8 @@ namespace Characters
             Setup.Weapon = Setup.Weapon_2;
             Setup.Weapon_2 = _tempSetupWeaponCache;
 
-            Setup.CreateParts();
+            Setup.CreateWeapon();
+            Setup.Create3dmg();
 
             if (Weapon is BladeWeapon)
             {
