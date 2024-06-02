@@ -2248,8 +2248,7 @@ namespace Characters
                 }
             }
 
-            if (Setup.InitialWeapon == Setup.Weapon)
-                ReloadGearSkin();
+            ReloadGearSkin();
 
             HUDBottomHandler _hudBottomHandler = FindFirstObjectByType<HUDBottomHandler>();
             if (_hudBottomHandler != null)
