@@ -252,6 +252,9 @@
 		"Graphics.ShadowQualityOptions": [ "Off", "Low", "Medium", "High" ],
 		"Graphics.ShadowDistance": "Shadow distance",
 		"Graphics.LightDistance": "Light distance",
+		"Graphics.DetailDistance": "Detail distance", // Added by Snake for Terrain Detail Slider 26 may 24
+		"Graphics.DetailDensity": "Detail density", // Added by Snake for Terrain Detail Slider 27 may 24
+		"Graphics.TreeDistance": "Tree distance", // Added by Snake for Terrain Detail Slider 28 may 24
 		"Graphics.AntiAliasing": "Anti-aliasing",
 		"Graphics.AntiAliasingOptions": [ "Off", "Low", "Medium", "High" ],
 		"Graphics.Anisotropic": "Anisotropic filtering",
@@ -342,6 +345,7 @@
 		"Keybinds.Human.Ability1": "Ability 1", // added by Ata 20 May 24
 		"Keybinds.Human.Ability2": "Ability 2", // added by Ata 20 May 24
 		"Keybinds.Human.Ability3": "Ability 3", // added by Ata 20 May 24
+		"Keybinds.Human.LoadoutSwap": "Swap Loadout", // added by Ata 20 May 24
 		"Keybinds.Human.ReelIn": "Reel in",
 		"Keybinds.Human.ReelOut": "Reel out",
 		"Keybinds.Human.Dodge": "Dodge",

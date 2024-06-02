@@ -209,6 +209,9 @@
         "Graphics.ShadowQuality": "阴影质量",
         "Graphics.ShadowQualityOptions": [ "关", "低", "中", "高" ],
         "Graphics.ShadowDistance": "阴影距离",
+        "Graphics.DetailDistance": "细节距离", // Added by Snake for Terrain Detail Slider 26 may 24
+        "Graphics.DetailDensity": "细节密度", // Added by Snake for Terrain Detail Slider 27 may 24
+        "Graphics.TreeDistance": "树木距离", // Added by Snake for Terrain Detail Slider 28 may 24
         "Graphics.AntiAliasing": "抗锯齿",
         "Graphics.AntiAliasingOptions": [ "关", "低", "中", "高" ],
         "Graphics.Anisotropic": "各向异性过滤",
@@ -282,6 +285,7 @@
         "Keybinds.Human.Ability1": "能力 1", // added by Ata 20 May 24
         "Keybinds.Human.Ability2": "能力 2", // added by Ata 20 May 24
         "Keybinds.Human.Ability3": "能力 3", // added by Ata 20 May 24
+        "Keybinds.Human.LoadoutSwap": "更换装备",
         "Keybinds.Human.ReelIn": "收绳",
         "Keybinds.Human.ReelOut": "放绳",
         "Keybinds.Human.Dodge": "闪避",

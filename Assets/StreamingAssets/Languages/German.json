@@ -200,6 +200,9 @@
         "Graphics.ShadowQuality": "Schattenqualit�t",
         "Graphics.ShadowQualityOptions": [ "Aus", "Niedrig", "Mittel", "Hoch" ],
         "Graphics.ShadowDistance": "Schattendistanz",
+        "Graphics.DetailDistance": "Detailendistanz", // Added by Snake for Terrain Detail Slider 26 may 24
+        "Graphics.DetailDensity": "Detaildichte", // Added by Snake for Terrain Detail Slider 27 may 24
+        "Graphics.TreeDistance": "Baumdistanz", // Added by Snake for Terrain Detail Slider 28 may 24
         "Graphics.AntiAliasing": "Anti-Aliasing",
         "Graphics.AntiAliasingOptions": [ "Aus", "Niedrig", "Mittel", "Hoch" ],
         "Graphics.Anisotropic": "Anisotropische Filterung",
@@ -273,6 +276,7 @@
         "Keybinds.Human.Ability1": "Fähigkeit 1", // added by Ata 20 May 24
         "Keybinds.Human.Ability2": "Fähigkeit 2", // added by Ata 20 May 24
         "Keybinds.Human.Ability3": "Fähigkeit 3", // added by Ata 20 May 24
+        "Keybinds.Human.LoadoutSwap": "Ausrüstung wechseln",
         "Keybinds.Human.ReelIn": "Seil heranziehen",
         "Keybinds.Human.ReelOut": "Seil verl�ngern",
         "Keybinds.Human.Dodge": "Ausweichen",

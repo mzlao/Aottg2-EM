@@ -209,6 +209,9 @@
 		"Graphics.ShadowQuality": "影品質",
 		"Graphics.ShadowQualityOptions": [ "オフ", "低", "普", "高" ],
 		"Graphics.ShadowDistance": "影距離",
+		"Graphics.DetailDistance": "詳細距離", // Added by Snake for Terrain Detail Slider 26 may 24
+		"Graphics.DetailDensity": "ディテール密度", // Added by Snake for Terrain Detail Slider 27 may 24
+		"Graphics.TreeDistance": "木の距離", // Added by Snake for Terrain Detail Slider 28 may 24
 		"Graphics.AntiAliasing": "アンチエイリアシング",
 		"Graphics.AntiAliasingOptions": [ "オフ", "低", "普", "高" ],
 		"Graphics.Anisotropic": "異方性フィルタリング",
@@ -283,6 +286,7 @@
 		"Keybinds.Human.Ability1": "能力 1", // added by Ata 20 May 24
 		"Keybinds.Human.Ability2": "能力 2", // added by Ata 20 May 24
 		"Keybinds.Human.Ability3": "能力 3", // added by Ata 20 May 24
+		"Keybinds.Human.LoadoutSwap": "装備を変更",
 		"Keybinds.Human.ReelIn": "巻き取り",
 		"Keybinds.Human.ReelOut": "巻き出し",
 		"Keybinds.Human.Dodge": "回避",
