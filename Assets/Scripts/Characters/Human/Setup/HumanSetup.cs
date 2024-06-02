@@ -59,6 +59,7 @@ namespace Characters
 
         // loaded settings from player spawning
         public HumanCustomSet CustomSet;
+        public HumanWeapon InitialWeapon;
         public HumanWeapon Weapon;
         public HumanWeapon Weapon_2; // Added by Ata 22 May 2024 for Veteran Role //
         public JSONNode CurrentCostume;
@@ -149,6 +150,8 @@ namespace Characters
                 Weapon = HumanWeapon.APG;
             else if (loadout == HumanLoadout.Thunderspears)
                 Weapon = HumanWeapon.Thunderspear;
+
+            InitialWeapon = Weapon;
         }
 
         public void Load(HumanCustomSet customSet, HumanWeapon weapon, bool isDeadBody = false)
