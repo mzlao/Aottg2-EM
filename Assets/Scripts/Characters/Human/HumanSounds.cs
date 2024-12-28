@@ -48,5 +48,9 @@
         public static string GunExplode = "GunExplode";
         public static string GunExplodeLoud = "GunExplodeLoud";
         public static string WaterSplash = "WaterSplash";
+        public static string Fart1 = "fart-01";
+        public static string Fart2 = "fart-02";
+        public static string Fart3 = "fart-03";
+        public static string Fart4 = "fart-04";
     }
 }

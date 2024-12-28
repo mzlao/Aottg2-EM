@@ -22,6 +22,7 @@
         public KeybindSetting ReelOut = new KeybindSetting(new string[] { "LeftAlt", "None" });
         public KeybindSetting Dodge = new KeybindSetting(new string[] { "LeftControl", "None" });
         public KeybindSetting Jump = new KeybindSetting(new string[] { "LeftShift", "None" });
+        public KeybindSetting Fart = new KeybindSetting(new string[] { "F", "None" });
         public KeybindSetting Reload = new KeybindSetting(new string[] { "R", "None" });
         public KeybindSetting HorseMount = new KeybindSetting(new string[] { "LeftControl", "None" });
         public KeybindSetting HorseWalk = new KeybindSetting(new string[] { "LeftShift", "None" });

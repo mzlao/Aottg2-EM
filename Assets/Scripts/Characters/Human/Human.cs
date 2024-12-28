@@ -187,6 +187,11 @@ namespace Characters
             ToggleSparks(false);
         }
 
+        public void Fart()
+        {
+            PlaySound(HumanSounds.Fart1);
+        }
+
         public void Mount(Transform transform, Vector3 positionOffset, Vector3 rotationOffset)
         {
             Transform parent = transform;

@@ -305,6 +305,8 @@ namespace Controllers
 
             if (inMenu || _human.Dead || _human.State == HumanState.Stun)
                 return;
+            if (_humanInput.Fart.GetKeyDown())
+                        _human.Fart();
             if (_human.MountState == HumanMountState.None)
             {
                 if (_humanInput.HorseAutorun.GetKeyDown())
